@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## 果然还是被你发现了哈哈哈哈
 
-You can use the [editor on GitHub](https://github.com/loser-joker/loser-joker.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这个礼物，你喜欢吗 ~ ~（害羞）
+这就是我的代码库，一点一点搭建起来的，没有那么完善，但我有在努力学啦，从最初的安装软件，像什么git，nodejs啦，还有GitHub的各种操作，真的是搞得我一头雾水。不过一次又一次又一次又一次...（省略一百次 TAT）的调试，总算是能够完成大体框架了。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+之后就是一点点充实、完善了，我现在还不知道完成之后是什么样子，但是吧，我觉得它一定能够给你一个大大的惊喜，嘿嘿~
 
-### Markdown
+对了，大寿星，既然你这么聪明，看到了这个地方，那么...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+那么我再次祝你：
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/loser-joker/loser-joker.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###生日快乐！！！
