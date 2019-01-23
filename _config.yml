@@ -1,7 +1,4 @@
-location / {
-    //添加上以下代码：
-    if (!-e $request_filename){
-        rewrite ^(.*)$ /$1.html last;
-        break;
-    }
+if (!-e $request_filename){
+    rewrite ^(.*)$ /$1.html last;
+    break;
 }
